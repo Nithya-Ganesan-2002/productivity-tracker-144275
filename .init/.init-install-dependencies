@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/productivity-tracker-144275/task_manager_frontend"
+}
